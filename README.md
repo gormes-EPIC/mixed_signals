@@ -7,6 +7,7 @@
 - Only recognize number words "one"–"ten"
 - Print the total sum at the end 
 
+For a walkthrough of the first two, see [this optional assignment for Pi's and Python](https://gormes-epic.github.io/#Pi's-and-Python/cron-Optional-Lab).
 
 ## Try/Except in Python
 
