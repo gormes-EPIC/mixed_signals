@@ -5,10 +5,9 @@
 - Parse every line into a number and sum them all
 - Use try/except so bad lines are skipped
 - Only recognize number words "one"–"ten"
-- Print the total sum at the end 
+- Print the total sum at the end
 
-For a walkthrough of the first two, see [this optional assignment for Pi's and Python](https://gormes-epic.github.io/#Pi's-and-Python/cron-Optional-Lab).
-
+  
 ## Try/Except in Python
 
 Python code can crash when something unexpected happens — a missing file, bad user input, dividing by zero. `try`/`except` lets you catch those errors and handle them gracefully instead of letting the program die.
